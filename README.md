@@ -25,13 +25,10 @@ This system operates as a live command center dashboard running natively inside 
 The following screenshots show the system progressing through its operational states.
 
 ### Normal Automated Grid Monitoring
-
 <p align="center">
-  <img src="results/<img width="940" height="577" alt="normal-operation" src="https://github.com/user-attachments/assets/2e668094-f733-4e78-8de9-0b1cd8919e89" />
-" alt="Normal OPTCL SCADA dashboard operation" width="850">
+   <img width="850" alt="normal-operation" src="https://github.com/user-attachments/assets/66321d4f-1999-499c-bea9-99095f67deca" />
 </p>
-
-<p align="center"><em>Normal operating state — automated grid stability monitoring.</em></p>
+<p align="center"><em>Tier 2 and Tier 3 feeders in green as long as they're active and turn red when shed while Tier 1 remains protected denoted by yellow.</em></p>
 
 ### Critical Emergency & Automated Load Shedding
 
