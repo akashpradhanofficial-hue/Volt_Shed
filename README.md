@@ -28,12 +28,13 @@ The following screenshots show the system progressing through its operational st
 <p align="center">
    <img width="850" alt="normal-operation" src="https://github.com/user-attachments/assets/66321d4f-1999-499c-bea9-99095f67deca" />
 </p>
+
 <p align="center"><em>Tier 2 and Tier 3 feeders in green as long as they're active and turn red when shed while Tier 1 remains protected denoted by yellow.</em></p>
 
 ### Critical Emergency & Automated Load Shedding
 
 <p align="center">
-  <img src="results/critical-emergency.png" alt="Critical OPTCL SCADA load-shedding state" width="850">
+  <img width="850" alt="critical-emergency" src="https://github.com/user-attachments/assets/6b62c0af-765d-4848-8fcb-ce211a960c17" />
 </p>
 
 <p align="center"><em>Critical emergency state — Tier 2 and Tier 3 feeders shed while Tier 1 critical feeders remain protected.</em></p>
@@ -41,7 +42,7 @@ The following screenshots show the system progressing through its operational st
 ### Controlled Session Termination
 
 <p align="center">
-  <img src="results/session-termination.png" alt="OPTCL SCADA dashboard session termination" width="850">
+  <img width="850" alt="session-termination" src="https://github.com/user-attachments/assets/dde5602b-215c-4d24-8c7c-034c756718e2" />
 </p>
 
 <p align="center"><em>Controlled SCADA dashboard decommissioning after selecting the Exit option.</em></p>
