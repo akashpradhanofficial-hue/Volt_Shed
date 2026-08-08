@@ -27,7 +27,8 @@ The following screenshots show the system progressing through its operational st
 ### Normal Automated Grid Monitoring
 
 <p align="center">
-  <img src="results/normal-operation.png" alt="Normal OPTCL SCADA dashboard operation" width="850">
+  <img src="results/<img width="940" height="577" alt="normal-operation" src="https://github.com/user-attachments/assets/2e668094-f733-4e78-8de9-0b1cd8919e89" />
+" alt="Normal OPTCL SCADA dashboard operation" width="850">
 </p>
 
 <p align="center"><em>Normal operating state — automated grid stability monitoring.</em></p>
